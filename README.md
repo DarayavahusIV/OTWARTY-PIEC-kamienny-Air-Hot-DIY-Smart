@@ -1,31 +1,13 @@
+NAZWA: OTWARTY-PIEC-kamienny-Air-Hot-DIY-Smart
 
-OTWARTY PIEC KAMIENNY Air Hot DIY Smart
-INSTRUKCJA BUDOWY OTWARTEGO PIECA AKUMULUJĄCEGO CIEPŁO
-w SYSTEME Air Hot DIY
-(akumulatora powietrznego) w standardzie LOW-CAPEX
-
-
-
-Copyright © 2026 Darayavahus IV (Darayavahus_IV@proton.me). Wszelkie prawa zastrzeżone poza wyjątkami określonymi w pliku LICENSE.md.
-
-LINK do Repozytorium projektu: https://github.com/DarayavahusIV/OTWARTY-PIEC-kamienny-Air-Hot-DIY-Smart 
-
-Model Licencyjny i Zasady Współpracy (Triple-Model) są zapisane w pliku LICENSE.md
-
-Projekt funkcjonuje w oparciu o unikalny, potrójny model prawny (całość zapisana w pliku LICENSE.md), stworzony w celu zapewnienia powszechnej niezależności energetycznej osobom fizycznym przy jednoczesnej rygorystycznej ochronie własności intelektualnej przed nieautoryzowaną komercjalizacją :
-
-1.	Dla osób prywatnych (DIY) – 100% darmowy (CC BY-NC-SA 4.0)
-W przypadku budowy urządzenia na użytek własny, prywatny i bezdochodowy (np. ogrzewanie własnego domu, prywatnego garażu, balii lub basenu) cała dokumentacja jest całkowicie bezpłatna. Zezwala się na kopiowanie, modyfikowanie i ulepszanie projektu, pod warunkiem wskazania autora pierwotnego oraz udostępnienia poprawek na tej samej darmowej licencji (Copyleft). Sublicencjonowanie lub odsprzedaż praw osobom trzecim są kategorycznie zabronione.
-2.	Ochrona wolności kodu i automatyki (GPLv3)
-Wszelkie modyfikacje skryptów automatyki, algorytmów sterujących lub logicznej architektury przepływów realizowane w celach niekomercyjnych podlegają rygorom licencji GPLv3. Nakłada ona bezwzględny obowiązek upublicznienia zmodyfikowanego kodu źródłowego na tych samych, otwartych zasadach.
-3.	Program Zgłoszeń Partnerskich i Ochrona Prawna (Affiliate Bounty) : w celu rygorystycznego eliminowania nieautoryzowanych wdrożeń komercyjnych (w firmach, halach przemysłowych, hotelach czy gospodarstwach rolnych) bez wykupionej licencji B2B, ustanawia się publiczny program zgłoszeń.
-
-Właściciel technologii nie uczestniczy osobiście w procesie weryfikacji i wyszukiwania naruszeń. Wszelkie zgłoszenia dowodowe (fotografie, adresy instalacji, dane firm) należy kierować na adres Darayavahus_IV@proton.me
-Obsługę prawną, windykacyjną i procesową projektu prowadzi dedykowany, zewnętrzny zespół adwokacki/kancelaria prawna działająca w imieniu Autora oraz interesu Partnera zgłaszającego.
-
-Osoba (Sygnalista/Łowca), która jako pierwsza dostarczy niepodważalne dowody naruszenia licencji, otrzymuje gwarantowaną na piśmie nagrodę w wysokości aż 90% kwoty netto odszkodowania lub sumy ugody pozasądowej, skutecznie wyegzekwowanej i ściągniętej z podmiotu naruszającego prawo przez reprezentującą Autora kancelarię, pomniejszoną o wynagrodzenie dla kancelarii. 
-Pozostałe 10% przeznaczane jest na fundusz rozwoju projektów realizowanych przez Autora. Taki układ zapewnia pełną anonimowość i brak zaangażowania operacyjnego ze strony Autora, przy jednoczesnym zachowaniu rygorystycznej egzekucji prawnej na koszt podmiotu łamiącego licencję.
-
+Copyright © 2026 Darayavahus IV (Darayavahus_IV@proton.me). Wszelkie prawa zastrzeżone poza wyjątkami określonymi w pliku LICENSE.md. 
+LINK do repozytorium : https://github.com/DarayavahusIV/OTWARTY-PIEC-kamienny-Air-Hot-DIY-Smart 
+Model licencyjny i zasady współpracy (Triple-Licensing Model)
+Projekt funkcjonuje w oparciu o unikalny, wielopoziomowy model prawny (którego pełna, wiążąca treść zapisana jest w pliku LICENSE.md). Został on stworzony w celu zapewnienia powszechnej niezależności energetycznej osobom fizycznym przy jednoczesnej rygorystycznej ochronie własności intelektualnej przed nieautoryzowaną komercjalizacją oraz kradzieżą autorskich materiałów informacyjnych: 
+•	Dla osób prywatnych (DIY) – 100% darmowy (CC BY-NC-SA 4.0): W przypadku wdrażania rozwiązań, budowy urządzeń lub systemów na użytek własny, osobisty i bezdochodowy (np. ogrzewanie własnego domu mieszkalnego) cała dokumentacja jest całkowicie bezpłatna. Warunkiem jest własnoręczne wykonanie prac. Zezwala się na kopiowanie i modyfikowanie projektu, pod warunkiem wskazania Autora oraz udostępnienia poprawek na tej samej darmowej licencji (Copyleft). Zatrudnienie komercyjnych osób i/lub firm wykonawczych automatycznie anuluje tę licencję i bezwzględnie wymaga wykupienia licencji B2B. 
+•	Ochrona wolności kodu i automatyki (GPLv3): Wszelkie modyfikacje skryptów automatyki, algorytmów sterujących lub logicznej architektury przepływów realizowane w celach niekomercyjnych podlegają rygorom licencji GPLv3 (bezwzględny obowiązek upublicznienia kodu źródłowego). 
+•	Program Zgłoszeń Partnerskich i Ochrona Prawna (Affiliate Bounty): W celu eliminowania nieautoryzowanych wdrożeń komercyjnych w firmach lub gospodarstwach rolnych bez wykupionej licencji B2B, ustanawia się publiczny program zgłoszeń z nagrodą dla Łowców w wysokości aż 90% skutecznie wyegzekwowanej czystej kwoty netto odszkodowania (szczegóły procedury, Poradnik Legalnych Dowodów oraz zasady Procesowej Cesji Powierniczej opisane są w LICENSE.md). 
+•	Przypadki szczególne (Walka z czarnym rynkiem i partactwem): W celu bezkompromisowej ochrony rynku przed oszustami wprowadzamy rygorystyczną procedurę dyscyplinującą. Jeżeli jakikolwiek komercyjny wykonawca buduje ten system poza systemem podatkowym (w szarej strefie), bez wydania oficjalnej, pisemnej gwarancji na wykonaną pracę, a co najważniejsze: bez wykupionej licencji B2B, bądź próbuje odsprzedawać i komercjalizować samą warstwę tekstową i opisy tego projektu – inwestor, właściciel lub dowolny świadek ma prawo zgłosić ten fakt bezpośrednio do Autora projektu. Współpracująca z projektem kancelaria prawna natychmiast wszczyna procedurę cywilno-prawną i pozywa nieuczciwego wykonawcę/partacza/złodzieja treści na kwotę 50 000 zł oraz równowartość strat z tytułu poniesionych przez autora nieopłaconych licencji komercyjnych B2B z tytułu złamania warunków licencyjnych i autorskich praw majątkowych. Po odliczeniu honorarium kancelarii oraz ewentualnych kosztów procesowych, aż 90% czystej kwoty netto skutecznie wyegzekwowanego odszkodowania trafia bezpośrednio na konto osoby zgłaszającej. Szczegóły procedury, Poradnik Legalnych Dowodów oraz zasady Procesowej Cesji Powierniczej opisane są w LICENSE.md. 
 
 
 WSTĘP : 
@@ -217,26 +199,9 @@ UWAGA : ta darmowa energia cieplna może być łatwo przekuta w prąd lub niezal
 Uczulam Cię jednak na czytanie ze zrozumieniem całości moich repozytoriów, a nie tylko wybiórczych rozdziałów opisujących montaż krok po kroku. Bezpieczeństwo i rygor norm BHP są kluczem do statusu prawdziwego mistrza techniki we własnym domu.
 
 Ograniczenie odpowiedzialności (Disclaimer)
-
-Niniejsze opracowanie ma charakter otwarty i może zawierać błędy lub niedoskonałości techniczne. 
-
-Zostało ono udostępnione z myślą o tym, aby społeczność czytelników i praktyków mogła te błędy aktywnie wskazać, zweryfikować i wspólnie poprawić. 
-Intencją Autora jest ciągły rozwój opisanych tu idei oraz wspieranie oddolnych inicjatyw społecznych i technologicznych, nawet wtedy, gdy obowiązujące ramy prawne i formalne drastycznie utrudniają wdrażanie takich niezależnych, oddolnych rozwiązań energetycznych.
-
-Każda fizyczna adaptacja projektu oraz jego montaż w strukturze budynku (w starych piwnicach, na posadzkach, ławach fundamentowych) musi być ostatecznie zweryfikowana pod kątem nośności i nacisków statycznych przez uprawnionego inżyniera budownictwa. 
-
-Autor udostępnia zawarte w repozytorium informacje wyłącznie w celach edukacyjnych, informacyjnych i badawczych.
-
-Urządzenie budowane według opisu jest konstrukcją wysokotemperaturową (potencjał generowania temperatur powyżej 100°C, a w sytuacjach stagnacji, awarii wentylacji, braku odbioru energii lub w wersjach szczytowych od 140°C do nawet 200°C), co niesie za sobą bezpośrednie ryzyko ciężkich oparzeń, pożaru, skażenia chemicznego lub nieodwracalnego uszkodzenia mienia w przypadku błędu montażowego, użycia niewłaściwych materiałów lub braku stałego nadzoru.
-
-Każdy użytkownik (zarówno prywatny, jak i komercyjny) buduje i eksploatuje urządzenie wyłącznie na własną odpowiedzialność, własny koszt i pełne ryzyko prawne, będąc w pełni świadomym pewnych i niebezpiecznych zagrożeń pożarowych oraz zdrowotnych związanych z pracą w warunkach wysokich temperatur. 
-
-Autor nie ponosi żadnej odpowiedzialności cywilnej, karnej, deliktowej oraz kontraktowej za jakiekolwiek szkody na zdrowiu, życiu lub mieniu, a także za błędy wykonawcze, wady konstrukcyjne, niedopatrzenia lub brak wiedzy, powstałe w wyniku interpretacji, budowy lub użytkowania instalacji opartej na niniejszym opisie. 
-
-Budujesz i używasz na własną odpowiedzialność.
-
-Copyright © 2026 Darayavahus IV (Darayavahus_IV@proton.me). Wszelkie prawa zastrzeżone.
-
-Niniejsze opracowanie stanowi utwór inżynieryjno-naukowy i jest chronione potrójnym modelem regulaminu licencyjnego projektu OTWARTY PIEC KAMIENNY Air Hot DIY Smart (LICENSE.md).
+Autor udostępnia zawarte w repozytorium informacje, rozwiązania, urządzenia i systemy wyłącznie w celach edukacyjnych, informacyjnych i badawczych w stanie, w jakim się znajdują („AS IS”), bez jakichkolwiek gwarancji efektywności. 
+Wszelkie konstrukcje budowane według niniejszego opisu są układami wysokotemperaturowymi (potencjał generowania temperatur od 100°C do nawet 200°C), co niesie za sobą bezpośrednie ryzyko oparzeń, pożaru lub skażenia chemicznego w przypadku błędu montażowego, użycia tworzyw sztucznych w strefie termicznej lub braku stałego nadzoru. Każda fizyczna adaptacja w strukturze budynku musi być zweryfikowana pod kątem statyki przez uprawnionego inżyniera budownictwa. 
+Autor nie ponosi żadnej odpowiedzialności cywilnej, karnej, deliktowej oraz kontraktowej za jakiekolwiek szkody na zdrowiu, życiu lub mieniu powstałe w wyniku interpretacji, budowy, montażu lub użytkowania rozwiązań, urządzeń i systemów opartych na niniejszym opisie. Budujesz i używasz wyłącznie na własną odpowiedzialność, własny koszt i pełne ryzyko prawne. 
+Copyright © 2026 Darayavahus IV (Darayavahus_IV@proton.me). Wszelkie prawa zastrzeżone. 
+Niniejsze opracowanie stanowi utwór inżynieryjno-naukowy i jest chronione potrójnym modelem regulaminu licencyjnego projektu. Dystrybucja komercyjna, odsprzedaż samych treści lub lewe wykonawstwo bez opłaconej licencji B2B podlega karze umownej w wysokości 50 000 zł wraz z obowiązkiem pokrycia równowartości strat z tytułu nieopłaconych licencji (pełna treść i taryfikator kar w pliku LICENSE.md). 
 LINK do repozytorium: https://github.com/DarayavahusIV/OTWARTY-PIEC-kamienny-Air-Hot-DIY-Smart 
-
